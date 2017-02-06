@@ -58,7 +58,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('../images/CHARMING0415-san-francisco.jpg') no-repeat top center ;
+  background: url('images/CHARMING0415-san-francisco.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
